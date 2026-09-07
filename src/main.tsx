@@ -1,4 +1,4 @@
-import "./style.css";
+import "./index.css";
 import { sampleProjects, validateProject } from "./project-tracker";
 import { summarizeTask, sumHours, getTaskHours, type Task } from './helpers'
 
