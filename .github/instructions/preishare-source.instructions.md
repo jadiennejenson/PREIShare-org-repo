@@ -14,3 +14,4 @@ applyTo: "src/**/*.{ts,tsx,css}"
 - Match the existing lightweight Vite app structure and CSS approach unless the task explicitly requests a new UI system.
 - Prefer accessible semantic HTML and stable keys for rendered collections.
 - Validate source changes with `npx tsc -b`; run `npx eslint .` when touching TypeScript/TSX or lint configuration.
+- Summarize changed files, verification commands, and any remaining contract or product questions in the PR description.
